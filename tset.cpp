@@ -1,0 +1,22 @@
+/*
+
+
+N items each item has some weight and profit associated with it and also given a bag with capacity W.
+
+the task is to put the items into the bag such that the sum of profits associated with them is the maximum possible
+
+
+
+top view of binary tree
+bottom view of binary tree
+left view of binary tree
+right view of binary tree
+
+implement queue using stack
+recover bst
+
+
+
+
+
+*/
